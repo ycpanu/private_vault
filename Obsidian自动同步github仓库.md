@@ -5,6 +5,10 @@
    - ##### File->clone->选择建立的私人仓库添加到自定义路径
    - ##### 本地文件管理私人仓库的根目录
      添加文件 .gitignore
+	     .obsidian/workspace.json
+	     .obsidian/workspace-mobile.json
+	     
+   - ##### 
 #### 4. Obsidian操作
    - ##### 打开本地仓库->选择克隆仓库
    - ##### 设置->第三方插件->关闭安全模式->社区插件市场
