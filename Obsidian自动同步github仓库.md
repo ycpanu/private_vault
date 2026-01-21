@@ -31,4 +31,7 @@
 
 # error修复
 ![](assets/Obsidian自动同步github仓库/file-20260121201543590.png)
-1. #### 
+#### 1. 打开git/bin/bash.exe
+![](assets/Obsidian自动同步github仓库/file-20260121201950538.png)
+
+#### 2. 
