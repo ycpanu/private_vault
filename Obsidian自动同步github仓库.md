@@ -3,7 +3,6 @@
 #### 2. github创建私人仓库
 #### 3. github desktop操作
    - ##### File->clone->选择建立的私人仓库
-   - 
 #### 4. Obsidian操作
    - ##### 打开本地仓库->选择克隆仓库
    - ##### 设置->第三方插件->关闭安全模式->社区插件市场
@@ -15,5 +14,11 @@
    - ##### CustomAttachmentLocation选项
      - Markdown URL格式
        assets/${noteFileName}/${generatedAttachmentFileName}
-     - 
+     - 附件重命名格式
+       仅粘贴的图片->全部
+     - 是否重命名附件文件->开启
+   - ##### 系统设置
+     - 文件与链接/Links
+       使用wiki链接->关闭
+       内部链接类型->基于当前笔记的相对路径
    - 
