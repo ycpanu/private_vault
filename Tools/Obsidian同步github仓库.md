@@ -30,9 +30,9 @@
        内部链接类型->基于当前笔记的相对路径
 
 # error修复
-![](assets/Obsidian自动同步github仓库/file-20260121202554655.png)
+![](assets/Obsidian同步github仓库/file-20260121222047662.png)
 #### 1. 打开git/bin/bash.exe
-![](assets/Obsidian自动同步github仓库/file-20260121202554653.png)
+![](assets/Obsidian同步github仓库/file-20260121222047665.png)
 
 #### 2. Git 插件设置
 - Custom Git binary path:
