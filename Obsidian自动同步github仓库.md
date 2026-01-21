@@ -11,7 +11,7 @@
    - ##### Git选项
      - 打开 Auto commit and sync after stopping file edits
      - 设置同步间隔时间 Auto commit and sync interval(minutes)
-     - 打开Pull on start ，在打开软件时自动更新内容
+     - 打开Pull on startup ，在打开软件时自动更新内容
    - ##### CustomAttachmentLocation选项
      - Markdown URL格式
        assets/${noteFileName}/${generatedAttachmentFileName}
