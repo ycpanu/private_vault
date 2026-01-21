@@ -9,6 +9,6 @@
    - ##### 设置->第三方插件->关闭安全模式->社区插件市场
    - ##### 安装Git、CustomAttachmentLocation
    - ##### Git选项
-     - 
+     - Turn On 
    - ##### CustomAttachmentLocation选项
    - 
