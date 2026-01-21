@@ -30,8 +30,19 @@
        内部链接类型->基于当前笔记的相对路径
 
 # error修复
-![](assets/Obsidian自动同步github仓库/file-20260121201543590.png)
+![](assets/Obsidian自动同步github仓库/file-20260121202554655.png)
 #### 1. 打开git/bin/bash.exe
-![](assets/Obsidian自动同步github仓库/file-20260121201950538.png)
+![](assets/Obsidian自动同步github仓库/file-20260121202554653.png)
 
-#### 2. 
+#### 2. Git 插件设置
+- Custom Git binary path:
+	C:\Program Files\Git\bin\git.exe
+- Additional environment variables:
+	GIT_SSL_NO_VERIFY=true
+- Custom base path:
+	.（单个点号，表示当前目录）
+
+- Custom Git directory path:
+	.git
+- 点击Reload
+- 重启Obsidian
