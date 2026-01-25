@@ -265,7 +265,7 @@
     {
       "name": "Pro/deepseek-ai/DeepSeek-R1",
       "provider": "siliconflow",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": false,
       "baseUrl": "",
       "apiKey": "sk-ejygkjjnvzbzlclqdbvmnoxltzdwndcbeqktyxvvzjapswwl",
@@ -273,6 +273,23 @@
       "capabilities": [],
       "stream": true,
       "displayName": "Pro/deepseek-ai/DeepSeek-R1"
+    },
+    {
+      "name": "deepseek-v3-1-terminus",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://ark.cn-beijing.volces.com/api/v3",
+      "apiKey": "277cdd67-84af-4891-b239-01b66b640808",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "displayName": "deepseek-v3-1-terminus",
+      "azureOpenAIApiInstanceName": "",
+      "azureOpenAIApiDeploymentName": "",
+      "azureOpenAIApiVersion": "",
+      "azureOpenAIApiEmbeddingDeploymentName": "",
+      "openAIOrgId": ""
     }
   ],
   "activeEmbeddingModels": [
