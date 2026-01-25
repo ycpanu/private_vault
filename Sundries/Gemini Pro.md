@@ -5,4 +5,5 @@
 2. 静态IP地址获取方式：
    网址：https://dash.novproxy.com/
    购买一个 Long-term Static ISP
-   下载
+   下载RoxyBrowser
+   创建chuang'k
