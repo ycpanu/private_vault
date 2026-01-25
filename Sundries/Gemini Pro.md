@@ -6,4 +6,4 @@
    网址：https://dash.novproxy.com/
    购买一个 Long-term Static ISP
    下载RoxyBrowser
-   创建窗口-
+   创建窗口->代理IP->添加->将购买的
