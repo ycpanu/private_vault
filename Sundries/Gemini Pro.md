@@ -12,8 +12,9 @@
 4. 进行IP检测，不纯退货
 ### 申请学生认证
 1. https://one.google.com/ai-student
-2. 右键点击验证资格条件，点击复制链接地址
-3. https://batch.1key.me/
+   右键点击验证资格条件，点击复制链接地址
+2. https://batch.1key.me/
+   将粘贴地址粘贴到input框，开始认证
 ### 可能存在的问题
 1. 账号无申请资格[https://myaccount.google.com/u/0/age-verification?utm_source=p0](https://myaccount.google.com/u/0/age-verification?utm_source=p0)
    进行年龄认证
