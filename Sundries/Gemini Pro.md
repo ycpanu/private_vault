@@ -1,4 +1,4 @@
-### 纯净IP地址
+### 纯净IP地址（33高风险也可过）
 1. 检测网址：https://ipdata.co/
    ip:US
    Trust Score:Low risk
@@ -16,7 +16,7 @@
 2. https://batch.1key.me/
    将粘贴地址粘贴到input框，开始认证
 3. 成功后点击出现的网址
-   - 如果验证学生资格变成了畅想学生优惠，点击去绑定国外的银行卡（可去海鲜市场购买）
+   - 如果验证学生资格变成了畅想学生优惠，点击去绑定国外的银行卡（可去海鲜市场购买虚拟卡（3块左右））
    - 点击提示没资格，重新进入1中网址
 ### 可能存在的问题
 1. 账号无申请资格[https://myaccount.google.com/u/0/age-verification?utm_source=p0](https://myaccount.google.com/u/0/age-verification?utm_source=p0)
