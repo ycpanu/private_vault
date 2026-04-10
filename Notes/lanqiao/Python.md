@@ -28,5 +28,20 @@ print(s.rstrip('0').rstrip('.'))  # 输出: "123.45"
 
 ### 全排列
 ```
+import itertools
 
+# 给定 3 个数字
+nums = [1, 2, 3]
+
+# 生成这 3 个数字的所有排列方式
+for p in itertools.permutations(nums):
+    print(p)
+
+# 输出结果 (共 3! = 6 种):
+# (1, 2, 3)
+# (1, 3, 2)
+# (2, 1, 3)
+# (2, 3, 1)
+# (3, 1, 2)
+# (3, 2, 1)
 ```
