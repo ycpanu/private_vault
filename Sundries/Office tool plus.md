@@ -6,4 +6,5 @@
 
 ## （2）更新通道
 
-- ![](assets/Office%20tool%20plus/file-20260430114736550.png)消除提示
+- 出现提示![](assets/Office%20tool%20plus/file-20260430114736550.png)将更新通道选为对应版本的长期企业版
+更新通道
