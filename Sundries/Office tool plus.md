@@ -28,4 +28,4 @@
 
 - 前往主页新手教程![](assets/Office%20tool%20plus/file-20260430131337610.png)
 
-- 
+- 选择查看Office tool plus激活教程，跟着步骤来
