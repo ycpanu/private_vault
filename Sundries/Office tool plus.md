@@ -26,6 +26,11 @@
 
 ### （2）未激活状态
 
-- 前往主页新手教程![](assets/Office%20tool%20plus/file-20260430131337610.png)
-
-- 选择查看Office tool plus激活教程，跟着步骤来
+- Office tools plus主页
+  Ctrl+Shift+P
+  ![](assets/Office%20tool%20plus/file-20260508140924071.png)
+- 输入对应版本指令
+  1. 2024
+	  ospp /inslicid ProPlus2024Volume /sethst kms.loli.best /setprt 1688 /act
+  2. 2021
+     ospp /inslicid ProPlus2021Volume /sethst kms.loli.best /setprt 1688 /act
