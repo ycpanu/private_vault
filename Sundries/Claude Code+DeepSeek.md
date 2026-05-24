@@ -14,7 +14,7 @@
 ```
 npm install -g @anthropic-ai/claude-code
 ```
-	等待安装完成
+等待安装完成
 
 （4）检查是否安装成功，输入下面指令，如果显示版本号则成功了
 ```
