@@ -1,0 +1,41 @@
+## 1  部署
+
+### （1）添加产品
+
+- 选择带有批量许可证的产品（如office LTSC 专业增强版 2021 -批量许可证）
+
+- 再次添加产品，搜索visio，最好是和上面同版本的（如Visio LTSC 专业版 2021 -批量许可证）
+
+- 将用不到的程序去掉（常用的有 Excel Word PowerPoint)![](assets/Office%20tool%20plus激活office套装/file-20260524101141271.png)
+## （2）更新通道
+
+- 出现提示![](assets/Office%20tool%20plus激活office套装/file-20260524101141272.png)将更新通道选为对应版本的“长期企业版”，同时把体系结构设置为自己电脑的体系（64位/32位），将下载后再部署按钮打开![](assets/Office%20tool%20plus激活office套装/file-20260524101141272%201.png)
+
+### （3）激活设置
+
+- 找到激活设置（版本不同，位置也不同，一般在部署->高级设置），将“自动接受软件许可条款打开”。![](assets/Office%20tool%20plus激活office套装/file-20260524101141258.png)
+
+### （4）开始部署
+- 点击开始部署，等待完成。
+
+## 2  激活
+
+### （1）检查账号是否激活
+
+- 打开Word，点击账号，查看是否是已激活状态
+
+### （2）未激活状态
+
+- Office tools plus主页
+  Ctrl+Shift+P
+  ![](assets/Office%20tool%20plus激活office套装/file-20260524101141257.png)
+- 输入对应版本指令
+  1. 2024
+	```
+	ospp /inslicid ProPlus2024Volume /sethst kms.loli.best /setprt 1688 /act
+	```
+	   
+  2. 2021
+```
+ospp /inslicid ProPlus2021Volume /sethst kms.loli.best /setprt 1688 /act
+```

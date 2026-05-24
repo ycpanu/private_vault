@@ -1,4 +1,5 @@
 # API
+- OpenRouter
 - 火山方舟
 - 硅基流动
 # Tools
