@@ -25,4 +25,15 @@ claude --version
 （1）打开CC Switch，选择claude模型，再点击右上角的加号![](assets/Claude%20Code+DeepSeek/file-20260524104749863.png)
 （2）供应商选择DeepSeek![](assets/Claude%20Code+DeepSeek/file-20260524105207140.png)
 （3）往下划找到API Key，填入自己刚生成的API Key
-（4）再往下划，填入指定的模型
+（4）修改模型配置，改成下图
+![](assets/Claude%20Code+DeepSeek/file-20260524105829214.png)
+Haiku：
+```
+deepseek-v4-flash
+```
+其他：
+```
+deepseek-v4-pro[1m]
+```
+（5）点击右下角添加
+（6）回到首页，点击启用该模型![](assets/Claude%20Code+DeepSeek/file-20260524110259422.png)
