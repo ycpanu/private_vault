@@ -73,4 +73,4 @@ claude
 ## 2.3 VS Code插件使用
 （1）下载插件
 ![](assets/Claude%20Code+DeepSeek/file-20260524115745796.png)
-（2）
+（2）侧边栏打开后，新建一个session即可使用
