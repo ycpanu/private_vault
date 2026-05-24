@@ -17,6 +17,7 @@ claude --version
 ### 1.1.2 使用PowerShell走代理
 	略
 ## 1.2 接入DeepSeek模型
-
+### 1.2.1 申请DeepSeek API
+（1）打开deepseek官网
 ### 1.2.1 使用CC Switch
 （1）
