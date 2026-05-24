@@ -18,6 +18,7 @@ claude --version
 	略
 ## 1.2 接入DeepSeek模型
 ### 1.2.1 申请DeepSeek API
-（1）打开deepseek官网
+（1）打开deepseek官网，点击右侧的API开放平台![379](assets/Claude%20Code+DeepSeek/file-20260524104037330.png)
+（2）
 ### 1.2.1 使用CC Switch
 （1）
