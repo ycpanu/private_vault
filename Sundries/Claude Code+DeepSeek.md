@@ -88,9 +88,11 @@ $env:CLAUDE_CODE_EFFORT_LEVEL="max"
 claude
 ```
 
-（2）选择yes![569](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
+（2）选择yes
+![514](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
 
-（3）查看是否显示deepseek-v4-pro[1m]![566](assets/Claude%20Code+DeepSeek/file-20260524112024777.png)
+（3）查看是否显示deepseek-v4-pro[1m]
+![427](assets/Claude%20Code+DeepSeek/file-20260524112024777.png)
 
 
 # 2  使用方法
@@ -105,6 +107,7 @@ claude
 
 （2）在地址栏直接输入cmd，回车，就会到达指定文件夹的终端
 ![541](assets/Claude%20Code+DeepSeek/file-20260524113100047.png)
+
 因为claude会读取你这个路径下的所有文件，文件夹选择就比较重要，如我的前后端代码是放到了code里面，如果我只要修改前后端代码之间的逻辑，我就再打开code文件夹，在code文件夹下打开终端，或者我只要修改我的后端代码，那我再前进一个，直接打开后端代码的文件夹，启动终端，这样就会只读取到后端代码，修改起来会在一定程度上避免ai上下文混乱
 
 （3）终端输入claude，就可以对该文件夹下的文件进行改动了
