@@ -12,7 +12,7 @@ npm install -g @anthropic-ai/claude-code
 	等待安装完成
 （4）检查是否安装成功，输入下面指令，如果显示版本号则成功了
 ```
-claude --version
+claude -v
 ```
 ### 1.1.2 使用PowerShell走代理
 	略
