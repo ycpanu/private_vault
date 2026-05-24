@@ -89,6 +89,7 @@ claude
 ```
 
 （2）选择yes
+
 ![311](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
 
 （3）查看是否显示deepseek-v4-pro[1m]
