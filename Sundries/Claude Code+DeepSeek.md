@@ -37,4 +37,4 @@ deepseek-v4-pro[1m]
 ```
 （5）点击右下角添加
 （6）回到首页，测试一下是否配置成功![](assets/Claude%20Code+DeepSeek/file-20260524110457745.png)
-（6）回到首页，点击启用该模型![](assets/Claude%20Code+DeepSeek/file-20260524110259422.png)
+（6）点击启用该模型![](assets/Claude%20Code+DeepSeek/file-20260524110259422.png)
