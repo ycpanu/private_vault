@@ -40,3 +40,18 @@ deepseek-v4-pro[1m]
 （6）点击启用该模型![515](assets/Claude%20Code+DeepSeek/file-20260524110259422.png)
 （7）点击用量配置查询，进去打开启动用量配置查询，保存配置，就可以在首页显示自己的余额了![](assets/Claude%20Code+DeepSeek/file-20260524110820076.png)
 ### 1.2.3 使用终端指令配置（CC Swith配置不成功的情况下使用）
+```
+$env:ANTHROPIC_BASE_URL="https://api.deepseek.com/anthropic"
+$env:ANTHROPIC_AUTH_TOKEN="你的 DeepSeek API Key"
+$env:ANTHROPIC_MODEL="deepseek-v4-pro[1m]"
+$env:ANTHROPIC_DEFAULT_OPUS_MODEL="deepseek-v4-pro[1m]"
+$env:ANTHROPIC_DEFAULT_SONNET_MODEL="deepseek-v4-pro[1m]"
+$env:ANTHROPIC_DEFAULT_HAIKU_MODEL="deepseek-v4-flash"
+$env:CLAUDE_CODE_SUBAGENT_MODEL="deepseek-v4-flash"
+$env:CLAUDE_CODE_EFFORT_LEVEL="max"
+```
+### 1.2.4 检查是否deepseek是否接入成功
+在任意文件夹终端下输入
+```
+claude
+```
