@@ -51,7 +51,9 @@ $env:CLAUDE_CODE_SUBAGENT_MODEL="deepseek-v4-flash"
 $env:CLAUDE_CODE_EFFORT_LEVEL="max"
 ```
 ### 1.2.4 检查是否deepseek是否接入成功
-在任意文件夹终端下输入
+（1）在任意文件夹终端下输入
 ```
 claude
 ```
+（2）选择yes![](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
+（3）
