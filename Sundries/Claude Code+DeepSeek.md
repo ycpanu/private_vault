@@ -55,5 +55,5 @@ $env:CLAUDE_CODE_EFFORT_LEVEL="max"
 ```
 claude
 ```
-（2）选择yes![](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
-（3）查看是否显示
+（2）选择yes![569](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
+（3）查看是否显示deepseek-v4-pro[1m]![566](assets/Claude%20Code+DeepSeek/file-20260524112024777.png)
