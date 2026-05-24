@@ -24,4 +24,5 @@ claude --version
 ### 1.2.2 使用CC Switch接入
 （1）打开CC Switch，选择claude模型，再点击右上角的加号![](assets/Claude%20Code+DeepSeek/file-20260524104749863.png)
 （2）供应商选择DeepSeek![](assets/Claude%20Code+DeepSeek/file-20260524105207140.png)
-（3）
+（3）往下划找到API Key，填入自己刚生成的API Key
+（4）再往下划，填入指定的模型
