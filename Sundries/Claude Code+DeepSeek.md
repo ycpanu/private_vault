@@ -57,3 +57,7 @@ claude
 ```
 （2）选择yes![569](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
 （3）查看是否显示deepseek-v4-pro[1m]![566](assets/Claude%20Code+DeepSeek/file-20260524112024777.png)
+
+# 2  使用方法
+## 2.1 终端使用
+### 2.1.1 指定文件夹启动
