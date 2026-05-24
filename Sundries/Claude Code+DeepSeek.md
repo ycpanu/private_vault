@@ -71,3 +71,6 @@ claude
 ## 2.2 编译器终端启用
 （1）在编译器（IDEA,VS Code等）的终端输入claude
 ## 2.3 VS Code插件使用
+（1）下载插件
+![](assets/Claude%20Code+DeepSeek/file-20260524115745796.png)
+（2）
