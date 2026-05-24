@@ -19,6 +19,7 @@ claude --version
 ## 1.2 接入DeepSeek模型
 ### 1.2.1 申请DeepSeek API
 （1）打开deepseek官网，点击右侧的API开放平台![379](assets/Claude%20Code+DeepSeek/file-20260524104037330.png)
-（2）
-### 1.2.1 使用CC Switch
-（1）
+（2）可先充10快钱，这个月有活动，Token消费打2.5折，够用挺久了
+（3）点击API keys，创建API，名称随便，然后复制key（这个可以先粘贴到自己的笔记本里，因为这个key只出现一次，忘记了只能创建一个新的key)
+### 1.2.2 使用CC Switch接入
+（1）打开CC Switch，选择claude模型，再点击右上角的加号![](assets/Claude%20Code+DeepSeek/file-20260524104749863.png)
