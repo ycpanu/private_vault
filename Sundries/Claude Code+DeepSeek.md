@@ -8,7 +8,7 @@
 
 （2）以管理员身份运行命令提示符（cmd）
 	开始页搜索cmd，右键选择以管理员身份运行
-	![251](assets/Claude%20Code+DeepSeek/file-20260524102233303.png)
+	![460](assets/Claude%20Code+DeepSeek/file-20260524102233303.png)
 
 （3）输入指令：
 ```
@@ -29,7 +29,7 @@ claude -v
 ### 1.2.1 申请DeepSeek API
 
 （1）打开deepseek官网，点击右侧的API开放平台
-![261](assets/Claude%20Code+DeepSeek/file-20260524104037330.png)
+![398](assets/Claude%20Code+DeepSeek/file-20260524104037330.png)
 
 （2）可先充10快钱，这个月有活动，Token消费打2.5折，够用挺久了
 
@@ -38,15 +38,15 @@ claude -v
 ### 1.2.2 使用CC Switch接入
 
 （1）打开CC Switch，选择claude模型，再点击右上角的加号
-![442](assets/Claude%20Code+DeepSeek/file-20260524104749863.png)
+![642](assets/Claude%20Code+DeepSeek/file-20260524104749863.png)
 
 （2）供应商选择DeepSeek
-![428](assets/Claude%20Code+DeepSeek/file-20260524105207140.png)
+![669](assets/Claude%20Code+DeepSeek/file-20260524105207140.png)
 
 （3）往下划找到API Key，填入自己刚生成的API Key
 
 （4）修改模型配置，改成下图
-![464](assets/Claude%20Code+DeepSeek/file-20260524105829214.png)
+![681](assets/Claude%20Code+DeepSeek/file-20260524105829214.png)
 
 Haiku：
 ```
@@ -61,13 +61,13 @@ deepseek-v4-pro[1m]
 （5）点击右下角添加
 
 （6）回到首页，测试一下是否配置成功
-![370](assets/Claude%20Code+DeepSeek/file-20260524110457745.png)
+![676](assets/Claude%20Code+DeepSeek/file-20260524110457745.png)
 
 （6）点击启用该模型
-![337](assets/Claude%20Code+DeepSeek/file-20260524110259422.png)
+![556](assets/Claude%20Code+DeepSeek/file-20260524110259422.png)
 
 （7）点击用量配置查询，进去打开启动用量配置查询，保存配置，就可以在首页显示自己的余额了
-![502](assets/Claude%20Code+DeepSeek/file-20260524110820076.png)
+![697](assets/Claude%20Code+DeepSeek/file-20260524110820076.png)
 
 ### 1.2.3 使用终端指令配置（CC Swith配置不成功的情况下使用）
 ```
@@ -90,10 +90,10 @@ claude
 
 （2）选择yes
 
-![311](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
+![673](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
 
 （3）查看是否显示deepseek-v4-pro[1m]
-![307](assets/Claude%20Code+DeepSeek/file-20260524112024777.png)
+![669](assets/Claude%20Code+DeepSeek/file-20260524112024777.png)
 
 
 # 2  使用方法
@@ -103,11 +103,11 @@ claude
 ### 2.1.1 指定文件夹启动
 
 （1）打开文件管理器，去到需要用该模型的的地址
-![459](assets/Claude%20Code+DeepSeek/file-20260524112741910.png)
+![631](assets/Claude%20Code+DeepSeek/file-20260524112741910.png)
 如我的项目的所需要的文件存放到了指定的项目文件夹ExamScope下，我只需要打开这个文件夹
 
 （2）在地址栏直接输入cmd，回车，就会到达指定文件夹的终端
-![541](assets/Claude%20Code+DeepSeek/file-20260524113100047.png)
+![637](assets/Claude%20Code+DeepSeek/file-20260524113100047.png)
 
 因为claude会读取你这个路径下的所有文件，文件夹选择就比较重要，如我的前后端代码是放到了code里面，如果我只要修改前后端代码之间的逻辑，我就再打开code文件夹，在code文件夹下打开终端，或者我只要修改我的后端代码，那我再前进一个，直接打开后端代码的文件夹，启动终端，这样就会只读取到后端代码，修改起来会在一定程度上避免ai上下文混乱
 
