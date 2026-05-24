@@ -23,3 +23,4 @@ claude --version
 （3）点击API keys，创建API，名称随便，然后复制key（这个可以先粘贴到自己的笔记本里，因为这个key只出现一次，忘记了只能创建一个新的key)
 ### 1.2.2 使用CC Switch接入
 （1）打开CC Switch，选择claude模型，再点击右上角的加号![](assets/Claude%20Code+DeepSeek/file-20260524104749863.png)
+（2）
