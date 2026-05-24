@@ -8,7 +8,7 @@
 
 （2）以管理员身份运行命令提示符（cmd）
 	开始页搜索cmd，右键选择以管理员身份运行
-	![323](assets/Claude%20Code+DeepSeek/file-20260524102233303.png)
+	![251](assets/Claude%20Code+DeepSeek/file-20260524102233303.png)
 
 （3）输入指令：
 ```
@@ -41,12 +41,12 @@ claude -v
 ![442](assets/Claude%20Code+DeepSeek/file-20260524104749863.png)
 
 （2）供应商选择DeepSeek
-![](assets/Claude%20Code+DeepSeek/file-20260524105207140.png)
+![428](assets/Claude%20Code+DeepSeek/file-20260524105207140.png)
 
 （3）往下划找到API Key，填入自己刚生成的API Key
 
 （4）修改模型配置，改成下图
-![](assets/Claude%20Code+DeepSeek/file-20260524105829214.png)
+![464](assets/Claude%20Code+DeepSeek/file-20260524105829214.png)
 
 Haiku：
 ```
@@ -61,13 +61,13 @@ deepseek-v4-pro[1m]
 （5）点击右下角添加
 
 （6）回到首页，测试一下是否配置成功
-![](assets/Claude%20Code+DeepSeek/file-20260524110457745.png)
+![370](assets/Claude%20Code+DeepSeek/file-20260524110457745.png)
 
 （6）点击启用该模型
-![515](assets/Claude%20Code+DeepSeek/file-20260524110259422.png)
+![337](assets/Claude%20Code+DeepSeek/file-20260524110259422.png)
 
 （7）点击用量配置查询，进去打开启动用量配置查询，保存配置，就可以在首页显示自己的余额了
-![](assets/Claude%20Code+DeepSeek/file-20260524110820076.png)
+![502](assets/Claude%20Code+DeepSeek/file-20260524110820076.png)
 
 ### 1.2.3 使用终端指令配置（CC Swith配置不成功的情况下使用）
 ```
@@ -89,10 +89,10 @@ claude
 ```
 
 （2）选择yes
-![514](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
+![311](assets/Claude%20Code+DeepSeek/file-20260524111859019.png)
 
 （3）查看是否显示deepseek-v4-pro[1m]
-![427](assets/Claude%20Code+DeepSeek/file-20260524112024777.png)
+![307](assets/Claude%20Code+DeepSeek/file-20260524112024777.png)
 
 
 # 2  使用方法
