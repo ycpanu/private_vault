@@ -610,58 +610,7 @@ FATAL
 
 ## 5. 线程模型设计
 
-### 5.1 第一版线程模型
-
-第一版建议采用单线程主循环，降低开发难度。
-
-```cpp
-while (running) {
-    collectMetrics();
-    checkAlarm();
-    saveData();
-    reportData();
-    sleep(collect_interval);
-}
-```
-
-优点：
-
-- 实现简单
-    
-- 调试方便
-    
-- 适合项目初期
-    
-- 不容易出现线程同步问题
-    
-
-### 5.2 第二版线程模型
-
-后续可以升级为多线程模型。
-
-```text
-Main Thread
-  ├── Collector Thread
-  ├── Alarm Thread
-  ├── Storage Thread
-  └── Reporter Thread
-```
-
-线程之间使用阻塞队列传递数据。
-
-```text
-Collector Thread
-      ↓
-Metric Queue
-      ↓
-Alarm Thread
-      ↓
-Alarm Queue
-      ↓
-Storage / Reporter
-```
-
-第二版可以作为项目扩展点，不建议第一阶段直接实现。
+使用多线程模型
 
 ---
 
