@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786363889747-t6rvir4nu",
+  "providerId": "claude",
+  "title": "生成嵌入式Linux应用开发学习路线思维导图",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786363889752,
+  "lastActivityAt": 1786363944902,
+  "sessionId": "abfde760-d114-4ae4-85a9-63058e05fb46",
+  "selectedModel": "claude-code/deepseek-v4-pro[1m]",
+  "providerState": {
+    "providerSessionId": "abfde760-d114-4ae4-85a9-63058e05fb46"
+  },
+  "currentNote": "Notes/嵌入式Linux应用开发/学习路线.md",
+  "usage": {
+    "model": "deepseek-v4-pro[1m]",
+    "inputTokens": 161,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26752,
+    "contextWindow": 200000,
+    "contextTokens": 26913,
+    "percentage": 13
+  }
+}

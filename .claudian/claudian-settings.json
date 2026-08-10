@@ -32,7 +32,7 @@
       "loadUserSettings": true,
       "enableChrome": false,
       "enableBangBash": false,
-      "customModels": "",
+      "customModels": "deepseek-v4-pro[1m]",
       "lastModel": "haiku",
       "modelEnvironmentType": "",
       "titleModelEnvironmentType": "",

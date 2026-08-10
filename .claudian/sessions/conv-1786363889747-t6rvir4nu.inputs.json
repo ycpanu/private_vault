@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786363889747-t6rvir4nu",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786363889913-6jgzf0a",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786363889744-ye9oyxm",
+      "timestamp": 1786363889744,
+      "rawDisplayText": "生成一个嵌入式Linux应用开发学习路线的思维导图",
+      "canonicalText": "生成一个嵌入式Linux应用开发学习路线的思维导图",
+      "context": {
+        "currentNote": {
+          "path": "Notes/嵌入式Linux应用开发/学习路线.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "3e212c0f818e11e582e99f280ba7b4ad05353c1533a6b5aeb14a3c0d2a340596",
+      "providerUserMessageId": "beb6b27e-a4ed-4391-89e4-4399c0e1cf8f",
+      "providerAssistantMessageId": "d3b0a0c8-811e-4320-bcfb-321fe9b167fc"
+    }
+  ]
+}
