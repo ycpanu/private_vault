@@ -239,19 +239,21 @@ OrangePi_IVI_System/
 
 ### 6.3 调试与质量保证 (GDB & ASAN)
 
-1. **远程交叉调试(Remote GDB):
-	- 目标机 (Orange Pi)：运行 gdbserver : 1234 ./ivi_app
-	- 宿主机 (PC)：运行交叉编译链中的 aarch64-linux-gnu-gdb，连接 target remote <IP
-2. **远程交叉调试 (Remote GDB)**：
-    - 目标机 (Orange Pi)：运行 gdbserver :1234 ./ivi_app
-    - 宿主机 (PC)：运行交叉编译链中的 aarch64-linux-gnu-gdb，连接 target remote <IP>:1234 进行源码级单步调试。
-
-3. **Core Dump 崩溃分析**：
-    - 系统配置 ulimit -c unlimited。若发生段错误，利用 GDB 加载 core 文件，使用 bt (backtrace) 命令快速定位崩溃的函数调用栈。
-
-4. **内存泄漏检测**：
-    - 在 CMakeLists.txt 中配置 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -g")。
+1. **远程交叉调试 (Remote GDB)**：
+    
+    - 目标机 (Orange Pi)：运行 gdbserver :1234 ./ivi_app
+        
+    - 宿主机 (PC)：运行交叉编译链中的 aarch64-linux-gnu-gdb，连接 target remote <IP>:1234 进行源码级单步调试。
+2. **Core Dump 崩溃分析**：
+    
+    - 系统配置 ulimit -c unlimited。若发生段错误，利用 GDB 加载 core 文件，使用 bt (backtrace) 命令快速定位崩溃的函数调用栈。
+        
+3. **内存泄漏检测**：
+    
+    - 在 CMakeLists.txt 中配置 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -g")。
+        
     - 利用 ASAN (AddressSanitizer) 在运行时检测数组越界、野指针及内存泄漏问题。
+        
 
 ## 7. 异常处理与容错机制 (Error Handling)
 
