@@ -240,7 +240,8 @@ OrangePi_IVI_System/
 ### 6.3 调试与质量保证 (GDB & ASAN)
 
 1. **远程交叉调试(Remote GDB):
-	- 目标机
+	- 目标机 (Orange Pi)：运行 gdbserver : 1234 ./ivi_app
+	- 宿主机 (PC)：运行交叉编译链中的 aarch64-linux-gnu-gdb，连接 target remote <IP
 2. **远程交叉调试 (Remote GDB)**：
     - 目标机 (Orange Pi)：运行 gdbserver :1234 ./ivi_app
     - 宿主机 (PC)：运行交叉编译链中的 aarch64-linux-gnu-gdb，连接 target remote <IP>:1234 进行源码级单步调试。
