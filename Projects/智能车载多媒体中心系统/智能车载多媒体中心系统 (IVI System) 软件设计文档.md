@@ -244,8 +244,7 @@ OrangePi_IVI_System/
     - 目标机 (Orange Pi)：运行 gdbserver :1234 ./ivi_app
         
     - 宿主机 (PC)：运行交叉编译链中的 aarch64-linux-gnu-gdb，连接 target remote <IP>:1234 进行源码级单步调试。
-        
-2.  **Core Dump 崩溃分析**：
+    **Core Dump 崩溃分析**：
     
     - 系统配置 ulimit -c unlimited。若发生段错误，利用 GDB 加载 core 文件，使用 bt (backtrace) 命令快速定位崩溃的函数调用栈。
         
