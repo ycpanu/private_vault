@@ -161,7 +161,7 @@ public slots:
 codeText
 
 ```
-OrangePi_IVI_System/
+IVI_System/
 ├── cmake/                      # [企业级] CMake 模块与工具链配置
 │   ├── aarch64-toolchain.cmake # 核心！ARM 交叉编译工具链配置文件
 │   ├── FindV4L2.cmake          # 自定义寻找 V4L2 库的 CMake 脚本
